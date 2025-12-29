@@ -1,4 +1,4 @@
-import css from "./Notelist.module.css";
+import css from "./NoteList.module.css";
 import type Note from "../../types/note";
 
 interface NoteListProps {
